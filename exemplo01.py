@@ -3,5 +3,5 @@
 
 teste = float(input('Digite a nota do Teste: '))
 prova = float(input('Digite a nota da Prova: '))
-media_bimestral = teste + prova / 2
+media_bimestral = (teste + prova) / 2
 print(f'A média bimestral é : {media_bimestral}')
